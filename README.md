@@ -1,5 +1,7 @@
-*Sistem Kasir/Struk Belanjaan Sederhana*
+(Sistem Kasir/Struk Belanjaan Sederhana)
+
 Sistem sederhana yang sangat membantu dalam menghitung total belanjaan pembeli
+
 Anggota kelompok:
 1. Johnathan Indrawan, 261401084, Kom A, Lab 2
 2. Abi Nubli Ridhoi, 261401056, Kom A, Lab 1
