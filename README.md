@@ -1,4 +1,4 @@
-(Sistem Kasir/Struk Belanjaan Sederhana)
+**Sistem Kasir/Struk Belanjaan Sederhana**
 
 Sistem sederhana yang sangat membantu dalam menghitung total belanjaan pembeli
 
